@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm AKSHAT JAIN</h1>
 - 🌱 I’m currently learning MACHINE LEARNING AND OPEN CV 
-
 - 📫 How to reach me: akshatjain2545@gmail.com
 
 <h3 align="left">Connect with me:</h3>
