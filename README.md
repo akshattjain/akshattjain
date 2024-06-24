@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MACHINE LEARNING AND OPEN CV 
 
 - 📫 How to reach me: akshatjain2545@gmail.com
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/_akshattjain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_akshattjain" height="30" width="40" /></a>
