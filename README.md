@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AKSHAT JAIN</h1>
 
-- 🌱 I’m currently learning GENERATIVE AI AND SYSTEM DESIGNS 
+- 🌱 I’m currently learning GENERATIVE AI and SYSTEM DESIGNS 
 
 - 📫 How to reach me: akshatjain2545@gmail.com
 
