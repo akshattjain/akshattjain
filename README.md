@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AKSHAT JAIN</h1>
 
-- 🌱 I’m currently learning SpringBoot and SYSTEM DESIGNS 
+- 🌱 I’m currently learning SpringBoot and SYSTEM DESIGNS
 
 - 📫 How to reach me: akshatjain2545@gmail.com
 
